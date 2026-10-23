@@ -41,5 +41,5 @@ The expanded texts are intended to evaluate robustness to unseen textual express
 
 ## To-do list
 
-- [ ] Release AGD20K test texts.
-- [ ] Release UMD test texts.
+- [x] Release AGD20K test texts.
+- [x] Release UMD test texts.
