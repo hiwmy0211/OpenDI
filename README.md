@@ -12,8 +12,8 @@ This repository provides the test texts for the semantically-expanded versions o
 
 ## Test texts
 
-- [AGD20K](AGD20K_test_text_mapping.xlsx)
-- [UMD](UMD_test_text_mapping.xlsx)
+- [AGD20K](AGD20K%20semantically-expanded%20test%20texts.xlsx)
+- [UMD](UMD%20semantically-expanded%20test%20texts.xlsx)
 
 Each row contains an object category, an affordance category, and four test texts. The expanded texts replace the original affordance words, while the corresponding test images and ground-truth region annotations remain unchanged.
 
